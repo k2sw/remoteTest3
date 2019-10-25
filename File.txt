@@ -3,3 +3,4 @@ This is line2 added on feature1.
 This is line3 added on feature1.
 This is line4 added on feature1.
 This is line5 added by sub on feature1.
+This is line6 added by sub on subfeature/addlines.
